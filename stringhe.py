@@ -20,3 +20,6 @@ print(x[2:7])
 
 # modifiche di stringhe
 print(x.upper())
+print(x.lower())
+
+
