@@ -22,4 +22,5 @@ print(x[2:7])
 print(x.upper())
 print(x.lower())
 
-
+x1 = " ciao ciccio carmine "
+print(x1.strip())
