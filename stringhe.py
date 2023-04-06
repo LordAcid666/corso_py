@@ -26,3 +26,5 @@ x1 = " ciao ciccio carmine "
 print(x1.strip())
 
 print(x1.replace("c", "W"))
+
+print(x + y)
