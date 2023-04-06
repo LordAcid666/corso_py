@@ -1,6 +1,6 @@
 #stringhe come array
 
-x = "prova"
+x = "provaDiStringa"
 y = 'ciao'
 
 print(x)
@@ -12,3 +12,6 @@ print(len(x))
 # ciclo for
 for carattere in "computer":
     print(carattere)
+
+#parti di stringa, primi tre caratteri
+print(x[:3])
