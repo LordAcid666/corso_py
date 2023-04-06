@@ -1,3 +1,5 @@
+#stringhe come array
+
 x = "ciao"
 y = 'ciao'
 
