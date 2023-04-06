@@ -15,3 +15,5 @@ for carattere in "computer":
 
 #parti di stringa, primi tre caratteri
 print(x[:3])
+
+print(x[2:7])
