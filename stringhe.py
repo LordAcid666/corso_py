@@ -17,3 +17,6 @@ for carattere in "computer":
 print(x[:3])
 
 print(x[2:7])
+
+# modifiche di stringhe
+print(x.upper())
